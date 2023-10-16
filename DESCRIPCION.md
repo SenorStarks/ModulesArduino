@@ -5,4 +5,4 @@ WhatsApp: 272 141 53 26
           272 181 23 64
           272 104 95 74
 
-XY1088A/ B
+Este archivo contiene la programación del módulo Matriz LED 8x8 en Arduino, modelo XY1088A/ B
